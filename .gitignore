@@ -1,4 +1,3 @@
-3d_box/
-viz_outputs/
+viz_outputs
 video_dir
 *pyc
